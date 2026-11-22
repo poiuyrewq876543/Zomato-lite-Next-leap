@@ -12,8 +12,9 @@ minute.
 
 ## Live
 
-- App: `https://<vercel-project>.vercel.app/restaurant/1`
-- Health: `https://<vercel-project>.vercel.app/api/health`
+- App: https://zomato-lite-two-wheat.vercel.app/restaurant/1
+- Health: https://zomato-lite-two-wheat.vercel.app/api/health
+- Source: https://github.com/poiuyrewq876543/Zomato-lite-Next-leap
 
 ## Local setup
 
