@@ -150,6 +150,10 @@ npx vercel --prod
 
 Then confirm `GET /api/health` returns `{"status":"ok"}` and post one review end to end.
 
+The Vercel project (`zomato-lite`) is deployed from this directory with the CLI. To deploy future
+commits automatically, connect the GitHub repository in **Vercel → Project → Settings → Git**
+(the Vercel GitHub app must be installed on the account).
+
 ## Project structure
 
 ```
