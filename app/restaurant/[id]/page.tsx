@@ -58,7 +58,7 @@ export default async function RestaurantPage({ params }: PageProps) {
   return (
     <div className="page">
       <header className="topbar">
-        <a className="brand" href="/restaurant/1" aria-label="Zomato Lite home">
+        <a className="brand" href="/restaurant/1">
           <span className="brand__mark" aria-hidden="true">
             Z
           </span>
